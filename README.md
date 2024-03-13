@@ -1,0 +1,1 @@
+In this project, we designed an application for children to improve their learning abilities. We used Firebase for storing and managing account information, and we developed this app in Android Studio.
