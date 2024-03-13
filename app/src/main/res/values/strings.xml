@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">project 1</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="Login">Login</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="clik_to_register">Clik to register</string>
+    <string name="logut">Logut</string>
+    <string name="seasons">seasons</string>
+    <string name="user_details">user details</string>
+    <string name="summer">summer</string>
+    <string name="autumn">autumn</string>
+    <string name="fall">fall</string>
+    <string name="spring">spring</string>
+    <string name="calendar">calendar</string>
+    <string name="days">DAYS</string>
+    <string name="scramble">scramble</string>
+    <string name="scramble1">scramble</string>
+    <string name="clock">clock</string>
+    <string name="directions">directions</string>
+    <string name="multiplication">multiplication</string>
+    <string name="multiplication_table_of">"Multiplication Table of "</string>
+    <string name="multiplication_table">Multiplication table</string>
+    <string name="ball">Ball</string>
+    <string name="memorygame">memorygame</string>
+    <string name="numberremember">numberRemember</string>
+    <string name="numberRemember">numberRemember</string>
+    <string name="enter_the_sequence_here">Enter the sequence here</string>
+    <string name="confirm">Confirm</string>
+    <string name="forward_sequence">Forward Sequence</string>
+    <string name="backward_sequence">Backward Sequence</string>
+    <string name="forward_sequence_of_number">Forward Sequence Of Number</string>
+    <string name="backward_sequence_of_number">Backward Sequence Of Number</string>
+    <string name="directions1">Directions</string>
+    <string name="write_the_word_correctly">write the word correctly</string>
+
+</resources>
+

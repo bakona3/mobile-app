@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proje 1</string>
+    <string name="username">kullanıcı adı</string>
+    <string name="password">şifre</string>
+    <string name="Login">Giriş yap</string>
+    <string name="login">Giriş yap</string>
+    <string name="register">Kayıt ol</string>
+    <string name="Register">Kayıt ol</string>
+    <string name="click_to_login">Giriş yapmak için tıkla</string>
+    <string name="click_to_register">Kayıt olmak için tıkla</string>
+    <string name="clik_to_register">Kayıt olmak için tıkla</string>
+    <string name="logut">Çıkış yap</string>
+    <string name="seasons">mevsimler</string>
+    <string name="user_details">kullanıcı detayları</string>
+    <string name="summer">yaz</string>
+    <string name="autumn">sonbahar</string>
+    <string name="fall">sonbahar</string>
+    <string name="spring">ilkbahar</string>
+    <string name="calendar">takvim</string>
+    <string name="days">GÜNLER</string>
+    <string name="scramble">karıştırma</string>
+    <string name="scramble1">karıştırma</string>
+    <string name="clock">saat</string>
+    <string name="directions">yönlendirmeler</string>
+    <string name="multiplication">çarpma</string>
+    <string name="multiplication_table_of">"nin çarpım tablosu "</string>
+    <string name="multiplication_table">Çarpma tablosu</string>
+    <string name="ball">top</string>
+    <string name="memorygame">hafıza oyunu</string>
+    <string name="numberremember">numarayı hatırla</string>
+    <string name="numberRemember">numarayı hatırla</string>
+    <string name="enter_the_sequence_here">Diziyi buraya girin</string>
+    <string name="confirm">Onayla</string>
+    <string name="forward_sequence">İleri dizi</string>
+    <string name="backward_sequence">Geri dizi</string>
+    <string name="forward_sequence_of_number">Numaranın ileri dizisi</string>
+    <string name="backward_sequence_of_number">Numaranın geri dizisi</string>
+    <string name="directions1">Yönlendirmeler</string>
+</resources>
